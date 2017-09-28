@@ -1,0 +1,9 @@
+MANIFEST.in
+Myblog/__init__.py
+Myblog/flaskr.py
+Myblog/schema.sql
+Myblog.egg-info/PKG-INFO
+Myblog.egg-info/SOURCES.txt
+Myblog.egg-info/dependency_links.txt
+Myblog.egg-info/requires.txt
+Myblog.egg-info/top_level.txt

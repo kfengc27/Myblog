@@ -1,0 +1,12 @@
+graft Myblog/templates 
+gratf Myblog/static
+include Myblog/schema.sql
+
+
+
+
+
+
+
+
+
